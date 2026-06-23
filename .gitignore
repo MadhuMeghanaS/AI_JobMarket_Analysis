@@ -1,0 +1,6 @@
+# Power BI Temporary Files
+~$*.pbix
+
+# Operating System Files
+.DS_Store
+Thumbs.db
